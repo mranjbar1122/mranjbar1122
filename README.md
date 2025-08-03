@@ -1,37 +1,24 @@
-<!-- Legendary Artistic Profile for Mohammad Amin Ranjbar -->
+<!-- MASTERPIECE PROFILE README FOR MOHAMMAD AMIN RANJBAR -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=09E3FF&width=435&lines=Hi,+I'm+Mohammad+Amin+Ranjbar;Full+Stack+Artist+%26+Code+Alchemist;Welcome+to+my+creative+world!+%F0%9F%8C%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=09E3FF&center=true&vCenter=true&width=900&lines=Hey!+I'm+Mohammad+Amin+Ranjbar;Full+Stack+Code+Artist;+Welcome+to+my+universe!+%F0%9F%8C%8E+;Designing+Tomorrow,+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github.com/mranjbar1122/mranjbar1122/blob/main/artist.gif" width="300"/>
-</div>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
 
-<h2 align="center">✨ Mohammad Amin Ranjbar ✨</h2>
-<h3 align="center">Full Stack Developer | Digital Artist | Tech Explorer</h3>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
+<h1 align="center">✨ Mohammad Amin Ranjbar ✨</h1>
+<h3 align="center">Full Stack Developer | Digital Artist | Tech Explorer | Dreamer</h3>
+<p align="center"><strong>Turning imagination into code, and code into reality.</strong></p>
 
 ---
 
-## 🎨 Who Am I?
+## 🦄 About Me
 
 ```diff
-+ Full Stack Developer, Code Poet, and Digital Dreamer
-- Coding with heart & painting with logic
-! Always searching for the next big idea
++ Visionary Full Stack Developer, Creative Coder, and Artistic Explorer
+- Blending logic, design, and emotion to create digital masterpieces
+! Always seeking out new challenges, ideas, and experiences
